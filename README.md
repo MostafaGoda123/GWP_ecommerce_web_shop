@@ -1,1 +1,0 @@
-# GWP_ecommerce_web_shop

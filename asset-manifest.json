@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/GWP_ecommerce_web_shop/tree/main/static/css/main.7047e8f1.css",
-    "main.js": "/GWP_ecommerce_web_shop/tree/main/static/js/main.05dfbffc.js",
-    "static/media/commerce.png": "/GWP_ecommerce_web_shop/tree/main/static/media/commerce.457bea4f142b5443dec4.png",
-    "index.html": "/GWP_ecommerce_web_shop/tree/main/index.html",
-    "main.7047e8f1.css.map": "/GWP_ecommerce_web_shop/tree/main/static/css/main.7047e8f1.css.map",
-    "main.05dfbffc.js.map": "/GWP_ecommerce_web_shop/tree/main/static/js/main.05dfbffc.js.map"
+    "main.css": "/GWP_ecommerce_web_shop/static/css/main.7047e8f1.css",
+    "main.js": "/GWP_ecommerce_web_shop/static/js/main.d6ab4ee3.js",
+    "static/media/commerce.png": "/GWP_ecommerce_web_shop/static/media/commerce.457bea4f142b5443dec4.png",
+    "index.html": "/GWP_ecommerce_web_shop/index.html",
+    "main.7047e8f1.css.map": "/GWP_ecommerce_web_shop/static/css/main.7047e8f1.css.map",
+    "main.d6ab4ee3.js.map": "/GWP_ecommerce_web_shop/static/js/main.d6ab4ee3.js.map"
   },
   "entrypoints": [
     "static/css/main.7047e8f1.css",
-    "static/js/main.05dfbffc.js"
+    "static/js/main.d6ab4ee3.js"
   ]
 }
